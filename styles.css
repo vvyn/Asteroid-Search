@@ -1,0 +1,26 @@
+.center{
+    text-align: center;
+    margin: auto;
+}
+
+.mainLogo{
+    width: 250px;
+}
+
+.nineDotImg{
+    width: 20px;
+    margin-top: 10px;
+}
+
+.nineDotDiv{
+    padding: 0 20px 0 20px;
+}
+
+.searchBox{
+    width: 600px;
+    margin: auto;
+}
+
+.addSpaceCat{
+    padding: 40px 0 20px 0;
+}
